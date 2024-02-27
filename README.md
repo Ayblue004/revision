@@ -89,7 +89,8 @@ o	Indent properly.
 o	Comment all the section.  
 •	For tracking  
 •	Document and explain your development process.  
-•	Add dates and use a versioning system.  
+•	Add dates and use a versioning system.
+• After you change the version, Identify what the problems were and how you acted and fixed them
 •	For asset log use a table and  
 o	Show the image if necessary.  
 o	The source of the image  
@@ -103,7 +104,8 @@ o	A table to link to external sites if necessary.
 •	A table testing each part of the code.  
 •	Show the outcome of the fixes you made after testing and explain how they are now better.  
 ### Guidance  
-•	Make sure you use more than one programming language.  
+•	Make sure you use more than one programming language.
+• Ensure to collectt user input no matter how little so you can have something to test 
 # Task 3A  
 •	Get technical and non-technical users.  
 •	Ask questions that you can act on [Apart from general questions]  
