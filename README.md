@@ -102,8 +102,9 @@ o	A table to link to external sites if necessary.
 •	For submission  
 •	The interface and labels that explains what “what” does.  
 •	A document that shows your code and explain blocks and what you were doing.  
-•	[Create a test plan for each part of the application]  
-•	[Test the application]  
+• A breif explanation on the type of testing you want to do like unit testing...  
+•	[Create a test plan for each part of the application] this would be classified as unit testing.  
+•	[Test the application]  test the whole application  
 •	A table testing each part of the code.  
 •	Show the outcome of the fixes you made after testing and explain how they are now better.  
 ### Guidance  
