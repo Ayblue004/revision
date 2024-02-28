@@ -28,13 +28,6 @@ o	Errors: How many errors can the user encounter and how is it handled
 o	Satisfaction: How pleasant looking is design  
 •	Talk about all this in detail for all the websites.  
 •	Talk about empathy map and how you will use it in the design. [Feel, thinks, says, does]  
-### Guidance  
-•	Make sure that the solution addresses all the needs of the client, make this obvious that you have considered this and explain how you have achieved this.  
-•	Justify your proposal adequately in context to how this is what the stakeholder would want and your rationale behind such decisions.  
-•	When you have stated all the positives remember to list the potential risks that are involved and how you intend to stop this from having any adverse effects on the solution  
-•	While discussing make sure that you consider all the legal guidelines and regulation pertaining to how you want to develop the solution  
-•	Make sure to break down and explain all the functional non-functional requirements and how they would benefit the software.  
-•	Consider the KPI and user acceptance criteria, The KPI should be something like “The software should run on multiple types of devices” This would evaluate how and if this was net at the end. The user acceptance criteria should be in a user wants and can the user do type of scenario.  
 ## Activity A (II)  
 ### The Proposal  
 •	In the proposal start with a [Motivational type sentence that gives the solution importance  
@@ -58,7 +51,13 @@ o	Create a hierarchy diagram for any main action that can be performed using the
 •	Explain and evaluate the user requirements, justify the requirement. Explain who is likely to use the website and legalities involved.  
 •	Evaluate things like legal, accessibility and benefit/ disadvantages. Do this for the requirements [Table type (Features, priority, justification)].  
 •	Conclude and evaluate what you will be creating [Like a paragraph explaining your solution]
-
+### Guidance  
+•	Make sure that the solution addresses all the needs of the client, make this obvious that you have considered this and explain how you have achieved this.  
+•	Justify your proposal adequately in context to how this is what the stakeholder would want and your rationale behind such decisions.  
+•	When you have stated all the positives remember to list the potential risks that are involved and how you intend to stop this from having any adverse effects on the solution  
+•	While discussing make sure that you consider all the legal guidelines and regulation pertaining to how you want to develop the solution  
+•	Make sure to break down and explain all the functional non-functional requirements and how they would benefit the software.  
+•	Consider the KPI and user acceptance criteria, The KPI should be something like “The software should run on multiple types of devices” This would evaluate how and if this was net at the end. The user acceptance criteria should be in a user wants and can the user do type of scenario.  
 ## Activity B (I)  
 ### Visual/ interface designs  
 •	For each design create a user interface  
