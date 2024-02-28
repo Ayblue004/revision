@@ -74,16 +74,18 @@ o	Create a hierarchy diagram for any main action that can be performed using the
 
 ### Algorithm  
 •	Using pseudo code or any other appropriate method explain how functional parts like  
-o	Login page  
-o	Registration page  
-o	Booking an order would work.  
+o	Login in
+o	Registering a new user  
+o	How booking an order would work.  
+• Have a justification of each Algorith and put more context on how it should really work  
 •	If needed create a table for each error that might happen for each algorithm and how it would be handled  
 •	Create a Data table [Name, function, Data type and reason] of data that you will use.  
 •	Create diagrams to explain the backend [Data Model].  
 o	Conceptual  
 o	Logical  
 o	Physical  
-•	Explain how you intend to test this algorithm [Using a table]  
+•	Explain how you intend to test this system [Type, Who, data set, when, time, outcome]  
+
 # Task 2  (Todo)
 •	[Do your thing :)]  
 •	For the code  
@@ -92,6 +94,7 @@ o	Indent properly.
 o	Comment all the section.  
 •	For tracking  
 •	Document and explain your development process.  
+• Create a table that explains your versioning ([Version, date, Changes Made and Reason])
 •	Add dates and use a versioning system.
 • After you change the version, Identify what the problems were and how you acted and fixed them
 •	For asset log use a table and  
@@ -99,7 +102,9 @@ o	Show the image if necessary.
 o	The source of the image  
 o	Why you used this. Not how you got it but why you are using it regarding to the application.  
 o	A table to link to external sites if necessary.  
-•	For submission  
+•	For submission show and explain the interface of all your code  
+• In the assets section, explain the images and links you have choosen regarding to legal, ethical and moral issues
+• For testing use a test Heuritics sheet  
 •	The interface and labels that explains what “what” does.  
 •	A document that shows your code and explain blocks and what you were doing.  
 • A breif explanation on the type of testing you want to do like unit testing...  
@@ -110,9 +115,12 @@ o	A table to link to external sites if necessary.
 ### Guidance  
 •	Make sure you use more than one programming language.
 • Ensure to collectt user input no matter how little so you can have something to test 
+• Make sure to add commments to the code that explains the logic of what you are doing
 # Task 3A  
 •	Get technical and non-technical users.  
 •	Ask questions that you can act on [Apart from general questions]  
+• For collectiing data you can use a table of [Name, type of audience, problem encountered, solution
+• You could have a rating of what they rate each section and like a google play store type format
 •	At the end of every individual feedback evaluate it and make sure you understand what they meant  
 •	Have a list of things you need to improve due to the feedback that you received.  
 # Task 3B  
