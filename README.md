@@ -14,7 +14,8 @@
   o	Battery capacity  
 ### Research  
 •	Find at least 3 examples of applications that match the type you want to develop.  
-•	State the features they all have in common and how they are used.  
+•	State the features they all have in common and how they are used.
+• Find out about the legalities involved in making an application like this, Data, permissions and all
 •	Give a detailed description of how these applications work (each).  
 •	State the negative sides you have found in the application.  
 •	While talking about a specific application show screenshots of the interface to enable the reader to better understand what you are talking about.  
@@ -28,6 +29,7 @@ o	Errors: How many errors can the user encounter and how is it handled
 o	Satisfaction: How pleasant looking is design  
 •	Talk about all this in detail for all the websites.  
 •	Talk about empathy map and how you will use it in the design. [Feel, thinks, says, does]  
+
 ## Activity A (II)  
 ### The Proposal  
 •	In the proposal start with a [Motivational type sentence that gives the solution importance  
@@ -48,8 +50,10 @@ o	How a user would log in / Create an account
 o	Create a hierarchy diagram for any main action that can be performed using the application / Create a user journey diagram for the process.  
 •	Talk about the UI/UX and how you want to approach it, talk about the needs and wants of the stakeholder.  
 •	If needed create a sort of table that shows the features or activities that can be performed by each user [Admin, customer]  
-•	Explain and evaluate the user requirements, justify the requirement. Explain who is likely to use the website and legalities involved.  
-•	Evaluate things like legal, accessibility and benefit/ disadvantages. Do this for the requirements [Table type (Features, priority, justification)].  
+•	Explain and evaluate the user requirements, justify the requirement. Explain who is likely to use the website and legalities involved.
+• Identify the potential risk and how you will mitigate them, like a table [Risk, Solution]  
+•	Evaluate things like legal, accessibility and benefit/ disadvantages
+• Do this for the requirements [Table type (Features, priority, justification)].  
 •	Conclude and evaluate what you will be creating [Like a paragraph explaining your solution]
 ### Guidance  
 •	Make sure that the solution addresses all the needs of the client, make this obvious that you have considered this and explain how you have achieved this.  
