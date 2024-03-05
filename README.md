@@ -139,7 +139,13 @@ o	A table to link to external sites if necessary.
 • The use of technical language that is consistently appropriate for the intended audience  
 # Task 3B  
 •	Talk about the key performance indicator in the essence of what the stake holder wanted and what you were able to deliver.  
+• If possible lsit each KPI and state how you have met the requirement  
+• While evaluating give examples and show proof like how that point as applied in the development  
 •	Evaluate if all this have been met and how they have been met.  
+• Talk about the legal implications of decisions you have made regarding  
+  o Storing user data  
+  o Assets used  
+• Think about concepts like the GDPR, DPA, copyright and accessibility  
 •	Talk about future developments which might have been highlighted during development or after development. Talk about how this will improve the application.  
 ### Guidance  
 •	Consider how your solution meets these requirements rather than describing what you did.  
