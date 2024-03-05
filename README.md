@@ -117,17 +117,17 @@ o	A table to link to external sites if necessary.
 • Ensure to collectt user input no matter how little so you can have something to test 
 • Make sure to add commments to the code that explains the logic of what you are doing
 # Task 3A  
-•	Get technical and non-technical users.  
-• In the planning stage make sure to plan  
-  o Who is your technical and non-technical user
-  o How will they give me feedback and how will I get the feedback forms, verbally ?
-  o What kind of questions to ask them ?
-  o What is my motive and what type of data am I hoping to get e.g about the functionality or about the interface
-  o Interview or observation... on what and on who ?
-• Explain in details how you plan to gather high quality unbiased feedback
-• Add observational feedback, like what you noticed during interviews and stuff
-• Highlight the technical and none technical questions you will be asking each group
-•	Ask questions that you can act on [Apart from general questions]  
+•	Get technical and non-technical users.    
+• In the planning stage make sure to plan   
+  o Who is your technical and non-technical user  
+  o How will they give me feedback and how will I get the feedback forms, verbally ?  
+  o What kind of questions to ask them ?  
+  o What is my motive and what type of data am I hoping to get e.g about the functionality or about the interface  
+  o Interview or observation... on what and on who?  
+• Explain in details how you plan to gather high quality unbiased feedback  
+• Add observational feedback, like what you noticed during interviews and stuff  
+• Highlight the technical and none technical questions you will be asking each group  
+•	Ask questions that you can act on [Apart from general questions]    
 • For collectiing data you can use a table of [Name, type of audience, problem encountered, solution  
 • You could have a rating of what they rate each section and like a google play store type format  
 •	At the end of every individual feedback evaluate it and make sure you understand what they meant    
