@@ -1,3 +1,9 @@
+### General notes  
+With every benefit listed, constraints must be considered.  
+Every decision made should be made based on how the stakeholder would benefit from it, this should be mentioned when evaluating.  
+Add descriptive diagrams like UML, Use case diagram, flowchart… where necessary.  
+
+
 # Task 1 (Todo-List)
 ## Activity A (I) <br>
 ### Planning and system requirements <br>
@@ -157,12 +163,6 @@ o	A table to link to external sites if necessary.
 •	Talk about the legal issues and why you feel your source is reliable regarding to assets.  
 •	Evaluate how much have met the KPIs that you have set.  
 •	Don’t lie.   
-
-
-## General notes  
-With every benefit listed, constraints must be considered.  
-Every decision made should be made based on how the stakeholder would benefit from it, this should be mentioned when evaluating.  
-Add descriptive diagrams like UML, Use case diagram, flowchart… where necessary.  
 
 
 
