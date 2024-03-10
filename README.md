@@ -58,7 +58,8 @@ o	How a user would log in / Create an account
 o	Create a hierarchy diagram for any main action that can be performed using the application / Create a user journey diagram for the process.  
 •	Talk about the UI/UX and how you want to approach it, talk about the needs and wants of the stakeholder.  
 •	If needed create a sort of table that shows the features or activities that can be performed by each user [Admin, customer]  
-•	Explain and evaluate the user requirements, justify the requirement. Explain who is likely to use the website and legalities involved.
+•	Explain and evaluate the user requirements, justify the requirement. Explain who is likely to use the website and legalities involved.  #
+• User acceptance criteria for each major section of your solutiion
 • Identify the potential risk and how you will mitigate them, like a table [Risk, Solution]  
 •	Evaluate things like legal, accessibility and benefit/ disadvantages
 • Do this for the requirements [Table type (Features, priority, justification)].  
