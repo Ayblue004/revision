@@ -20,8 +20,8 @@ Add descriptive diagrams like UML, Use case diagram, flowchart… where necessar
   o	Battery capacity  
 ### Research  
 •	Find at least 3 examples of applications that match the type you want to develop.  
-•	State the features they all have in common and how they are used.
-• Find out about the legalities involved in making an application like this, Data, permissions and all
+•	State the features they all have in common and how they are used.  
+• Find out about the legalities involved in making an application like this, Data, permissions and all  
 •	Give a detailed description of how these applications work (each).  
 •	State the negative sides you have found in the application.  
 •	While talking about a specific application show screenshots of the interface to enable the reader to better understand what you are talking about.  
@@ -38,14 +38,14 @@ o	Satisfaction: How pleasant looking is design
 
 ## Activity A (II)  
 ### The Proposal  
-•	In the proposal start with a [Motivational type sentence that gives the solution importance 
-• The business context should be like a breakdown of what I have been asked to do
+•	In the proposal start with a [Motivational type sentence that gives the solution importance  
+• The business context should be like a breakdown of what I have been asked to do  
 •	List what I have been asked to do/ or what the owner wants.  
 •	List the reason they want to build this solution, start with a paragraph that explains, then list   
 •	List the benefits this might have. Start with a brief explanation and then list.  
 •	Talk more on how this solution will help.  
 •	State what the client would like the system to have. Use the words [Must, should, could] and list them according to importance.  
-• Empathy map for all the stakeholders [Customer, Employee,Owner]
+• Empathy map for all the stakeholders [Customer, Employee,Owner]  
 •	List the different parts/layers of the system like [Mobile, web, database]. Explain then list.  
 •	Create a use case diagram that visualises how the system would work.  
 •	Explain how this works a bit.  
@@ -59,9 +59,9 @@ o	Create a hierarchy diagram for any main action that can be performed using the
 •	Talk about the UI/UX and how you want to approach it, talk about the needs and wants of the stakeholder.  
 •	If needed create a sort of table that shows the features or activities that can be performed by each user [Admin, customer]  
 •	Explain and evaluate the user requirements, justify the requirement. Explain who is likely to use the website and legalities involved.  #
-• User acceptance criteria for each major section of your solutiion
-• Identify the potential risk and how you will mitigate them, like a table [Risk, Solution]  
-•	Evaluate things like legal, accessibility and benefit/ disadvantages
+• User acceptance criteria for each major section of your solutiion  
+• Identify the potential risk and how you will mitigate them, like a table [Risk, Solution]    
+•	Evaluate things like legal, accessibility and benefit/ disadvantages  
 • Do this for the requirements [Table type (Features, priority, justification)].  
 •	Conclude and evaluate what you will be creating [Like a paragraph explaining your solution]
 ### Guidance  
@@ -103,16 +103,16 @@ o	Indent properly.
 o	Comment all the section.  
 •	For tracking  
 •	Document and explain your development process.  
-• Create a table that explains your versioning ([Version, date, Changes Made and Reason])
-•	Add dates and use a versioning system.
-• After you change the version, Identify what the problems were and how you acted and fixed them
+• Create a table that explains your versioning ([Version, date, Changes Made and Reason])  
+•	Add dates and use a versioning system.  
+• After you change the version, Identify what the problems were and how you acted and fixed them  
 •	For asset log use a table and  
 o	Show the image if necessary.  
 o	The source of the image  
 o	Why you used this. Not how you got it but why you are using it regarding to the application.  
 o	A table to link to external sites if necessary.  
 •	For submission show and explain the interface of all your code  
-• In the assets section, explain the images and links you have choosen regarding to legal, ethical and moral issues
+• In the assets section, explain the images and links you have choosen regarding to legal, ethical and moral issues  
 • For testing use a test Heuritics sheet  
 •	The interface and labels that explains what “what” does.  
 •	A document that shows your code and explain blocks and what you were doing.  
@@ -122,9 +122,9 @@ o	A table to link to external sites if necessary.
 •	A table testing each part of the code.  
 •	Show the outcome of the fixes you made after testing and explain how they are now better.  
 ### Guidance  
-•	Make sure you use more than one programming language.
-• Ensure to collectt user input no matter how little so you can have something to test 
-• Make sure to add commments to the code that explains the logic of what you are doing
+•	Make sure you use more than one programming language.  
+• Ensure to collectt user input no matter how little so you can have something to test  
+• Make sure to add commments to the code that explains the logic of what you are doing  
 # Task 3A  
 •	Get technical and non-technical users.    
 • In the planning stage make sure to plan   
