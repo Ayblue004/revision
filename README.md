@@ -38,12 +38,14 @@ o	Satisfaction: How pleasant looking is design
 
 ## Activity A (II)  
 ### The Proposal  
-•	In the proposal start with a [Motivational type sentence that gives the solution importance  
+•	In the proposal start with a [Motivational type sentence that gives the solution importance 
+• The business context should be like a breakdown of what I have been asked to do
 •	List what I have been asked to do/ or what the owner wants.  
 •	List the reason they want to build this solution, start with a paragraph that explains, then list   
 •	List the benefits this might have. Start with a brief explanation and then list.  
 •	Talk more on how this solution will help.  
 •	State what the client would like the system to have. Use the words [Must, should, could] and list them according to importance.  
+• Empathy map for all the stakeholders [Customer, Employee,Owner]
 •	List the different parts/layers of the system like [Mobile, web, database]. Explain then list.  
 •	Create a use case diagram that visualises how the system would work.  
 •	Explain how this works a bit.  
