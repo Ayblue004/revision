@@ -62,7 +62,7 @@ o	Create a hierarchy diagram for any main action that can be performed using the
 •	Explain and evaluate the user requirements, justify the requirement. Explain who is likely to use the website and legalities involved.  #
 • User acceptance criteria for each major section of your solutiion  
 • Identify the potential risk and how you will mitigate them, like a table [Risk, Solution]    
-•	Evaluate things like legal, accessibility and benefit/ disadvantages  
+•	Evaluate things like legal, accessibility and benefit/ disadvantages  [GDPR, Accessibility, Copyright, Data protection act]  
 • Do this for the requirements [Table type (Features, priority, justification)].  
 •	Conclude and evaluate what you will be creating [Like a paragraph explaining your solution]
 ### Guidance  
