@@ -98,6 +98,7 @@ o	Physical
 
 # Task 2  (Todo)
 •	[Do your thing :)]  
+• To save time writing sql commands use this site where you can just modify the command to your specific need (https://www.sitepoint.com/getting-started-sqlite3-basic-commands/)  
 •	For the code  
 o	Use a consistent naming convention.  
 o	Indent properly.  
