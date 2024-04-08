@@ -99,6 +99,15 @@ o	Physical
 # Task 2  (Todo)
 •	[Do your thing :)]  
 • To save time writing sql commands use this site where you can just modify the command to your specific need (https://www.sitepoint.com/getting-started-sqlite3-basic-commands/)  
+• If you are using sql and node sqlite you can use this starter template to speed up development  
+
+![image](https://github.com/Ayblue004/revision/assets/96060807/4a004855-f265-4f17-8f5f-d3be17d543cf)  
+![image](https://github.com/Ayblue004/revision/assets/96060807/65485710-ec4b-44e2-8f5b-5eee3983fa74)  
+![image](https://github.com/Ayblue004/revision/assets/96060807/5b8de68a-9060-4d8b-bfef-292b610aaa4c)
+
+• For the front-end, if you are using angular, this template could be used as well.
+![image](https://github.com/Ayblue004/revision/assets/96060807/2207a2d6-c8a6-4678-9fdd-1b3340147102)  
+
 •	For the code  
 o	Use a consistent naming convention.  
 o	Indent properly.  
