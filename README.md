@@ -101,6 +101,42 @@ o	Physical
 • To save time writing sql commands use this site where you can just modify the command to your specific need (https://www.sitepoint.com/getting-started-sqlite3-basic-commands/)  
 • If you are using sql and node sqlite you can use this starter template to speed up development  
 
+// Define the login route
+app.post('/login', async (req, res) => {
+    const { username, password } = req.body;
+
+    // Query the database for the user
+    const query = 'SELECT * FROM users WHERE username = ?';
+    db.get(query, [username], async (error, user) => {
+        if (error) {
+            console.error('Error executing query:', error);
+            return res.status(500).json({ message: 'Internal server error' });
+        }
+
+        if (!user) {
+            // User not found
+            return res.status(401).json({ message: 'Invalid username or password' });
+        }
+
+        // Compare provided password with the stored hashed password
+        const passwordMatch = await bcrypt.compare(password, user.password);
+
+        if (passwordMatch) {
+            // Password is correct
+            return res.json({ message: 'Login successful', user });
+        } else {
+            // Password is incorrect
+            return res.status(401).json({ message: 'Invalid username or password' });
+        }
+    });
+});
+
+// Start the server
+const port = 3000;
+app.listen(port, () => {
+    console.log(`Server is running on port ${port}`);
+});
+
 ![image](https://github.com/Ayblue004/revision/assets/96060807/4a004855-f265-4f17-8f5f-d3be17d543cf)  
 ![image](https://github.com/Ayblue004/revision/assets/96060807/65485710-ec4b-44e2-8f5b-5eee3983fa74)  
 ![image](https://github.com/Ayblue004/revision/assets/96060807/5b8de68a-9060-4d8b-bfef-292b610aaa4c)
